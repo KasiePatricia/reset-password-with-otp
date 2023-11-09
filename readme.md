@@ -92,9 +92,9 @@ Very basic auth app api to grasp sending mails and the reset password flow
 
 ```json
 {
-    "cipherText": " U2FsdGVkX1/bMDl+fqnEJolLH5dRXnv/79aHvBe5cCXAhCqmVJyPKwVzTjWV09UR",
-    "otp": "375765",
-    "newPassword": "Hello@45"
+    "cipherText": "U2FsdGVkX1/v7VQNu3chjDQnYU3pP62ElVY3kNOHvH5xKcpJR0IdI25Ncx5rN7qs",
+    "otp": "423020",
+    "newPassword": "Hello@45ggg"
 }
 ```
 
